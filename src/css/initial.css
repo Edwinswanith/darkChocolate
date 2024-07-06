@@ -1,0 +1,46 @@
+/* src/PromptInput.css */
+
+.header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 50px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .progress-bar {
+    width: 100%;
+    background-color: #ccc;
+    height: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .progress {
+    height: 100%;
+    background-color: #4caf50;
+    border-radius: 10px;
+  }
+  
+  .question-section {
+    margin-top: 20px;
+  }
+  
+  .question-section button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    border: 1px solid #0000ff;
+    background-color: #f0f8ff;
+    cursor: pointer;
+  }
+  
+  .question-section button:hover {
+    background-color: #e0f7ff;
+  }
+  
