@@ -2,7 +2,7 @@
 
 // import OpenAI from 'openai';
 
-// const openai = new OpenAI({ apiKey: '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', dangerouslyAllowBrowser: true });
+// const openai = new OpenAI({ apiKey: , dangerouslyAllowBrowser: true });
 
 // const getFunctionalitiesPrompt = (groupType, userPrompt) => `
 // You are an experienced UI/UX designer. Based on the provided group type and user prompt, please provide a detailed list of functionalities that should be included within this group. The functionalities should be practical and cover typical user needs for the specified group type. The user prompt is: "${userPrompt}"
@@ -69,7 +69,7 @@
 
 import OpenAI from 'openai';
 
-const openai = new OpenAI({ apiKey: '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', dangerouslyAllowBrowser: true });
+const openai = new OpenAI({ apiKey: , dangerouslyAllowBrowser: true });
 
 const getFunctionalitiesPrompt = (groupType, userPrompt, formattedQA) => `
 You are an experienced UI/UX designer. Based on the provided group type, user prompt, and additional user answers.
