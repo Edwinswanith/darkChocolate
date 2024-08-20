@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import OpenAI from 'openai';
 
-const openai = new OpenAI({ apiKey: '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', dangerouslyAllowBrowser: true });
+const openai = new OpenAI({ apiKey: , dangerouslyAllowBrowser: true });
 
 const jsonExample = {
   "nodes": [
