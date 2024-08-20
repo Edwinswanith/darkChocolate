@@ -1,4 +1,6 @@
-![](https://github.com/xyflow/web/blob/main/assets/codesandbox-header-js.png?raw=true)
+<img width="1440" alt="Screenshot 2024-08-20 at 2 48 15 PM" src="https://github.com/user-attachments/assets/bb6fb7ea-c003-499e-a89e-2155a0a6bf11">
+<img width="1428" alt="Screenshot 2024-08-20 at 2 49 57 PM" src="https://github.com/user-attachments/assets/35ac84cb-dd1e-402f-b390-4ac58ab41610">
+<img width="1440" alt="Screenshot 2024-08-20 at 2 50 34 PM" src="https://github.com/user-attachments/assets/f849272c-9ab3-41e2-9ecf-cd4dfa03f6ff">![](https://github.com/xyflow/web/blob/main/assets/codesandbox-header-js.png?raw=true)
 
 # React Flow JavaScript starter
 
@@ -8,6 +10,7 @@ or share with us a bug report or issue.
 
 **JavaScript not your thing?** We also have a TypeScript starter template, just for
 you!
+
 
 ## Getting up and running
 
